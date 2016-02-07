@@ -14,20 +14,22 @@ public class commandExecutor implements CommandExecutor {
 
     public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
 
-        //static String pluginsListLink;
-
+        //プレイヤーが送信した場合
         if (sender instanceof Player) {
+            //プレイヤーがOPを持ってた場合
             if (sender.isOp()) {
                 Player player = (Player) sender;
                 player.chat("/bukkit:plugins");
             }
 
+            //プレイヤーがOPを持ってなかった場合
             if (!sender.isOp()) {
                 Player player = (Player) sender;
                 sender.sendMessage("導入プラグインはこちらからご確認下さい-> http://www.minecraft.osaka/pc/plugins/");
             }
         }
 
+        //コンソールが送信した場合
         if (sender.isOp()){
             ConsoleCommandSender console = Bukkit.getServer().getConsoleSender();
             String command = "bukkit:pl";
