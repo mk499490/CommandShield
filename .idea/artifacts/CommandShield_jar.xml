@@ -1,8 +1,8 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="CommandShield:jar">
+  <artifact type="jar" name="CommandShield.jar">
     <output-path>$PROJECT_DIR$/out/artifacts/CommandShield_jar</output-path>
-    <root id="archive" name="PLLink.jar">
-      <element id="module-output" name="PLLink" />
+    <root id="archive" name="CommandShield.jar">
+      <element id="module-output" name="CommandShield" />
       <element id="extracted-dir" path="C:/PLDev/BuildTools.jar" path-in-jar="/" />
       <element id="extracted-dir" path="C:/PLDev/spigot-1.8.8.jar" path-in-jar="/" />
       <element id="extracted-dir" path="C:/PLDev/craftbukkit-1.8.8.jar" path-in-jar="/" />
