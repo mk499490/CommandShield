@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="PLLink:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/PLLink_jar</output-path>
+  <artifact type="jar" name="CommandShield:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CommandShield_jar</output-path>
     <root id="archive" name="PLLink.jar">
       <element id="module-output" name="PLLink" />
       <element id="extracted-dir" path="C:/PLDev/BuildTools.jar" path-in-jar="/" />
