@@ -1,7 +1,7 @@
-name: PLLink
+name: CommandShield
 version: 1.0
 author: mk499490
-main: com.horizonbagel.pllink.Main
+main: com.horizonbagel.commandshield.Main
 website: http://www.horizonbagel.com/
 commands:
   pl:

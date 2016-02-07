@@ -1,4 +1,4 @@
-package com.horizonbagel.pllink;
+package com.horizonbagel.commandshield;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
