@@ -1,0 +1,9 @@
+name: PLLink
+version: 1.0
+author: mk499490
+main: com.horizonbagel.pllink.Main
+website: http://www.horizonbagel.com/
+commands:
+  pl:
+    description:
+    usage: /pl

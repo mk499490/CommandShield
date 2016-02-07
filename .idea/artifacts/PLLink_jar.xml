@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PLLink:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PLLink_jar</output-path>
+    <root id="archive" name="PLLink.jar">
+      <element id="module-output" name="PLLink" />
+      <element id="extracted-dir" path="C:/PLDev/BuildTools.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/PLDev/spigot-1.8.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/PLDev/craftbukkit-1.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
